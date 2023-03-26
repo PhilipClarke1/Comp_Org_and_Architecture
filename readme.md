@@ -1,2 +1,2 @@
 # CMS 230
-A collection of my work in Computer Orgaization and Architecture
+A collection of my work from Computer Orgaization and Architecture
